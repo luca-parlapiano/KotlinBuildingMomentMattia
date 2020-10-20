@@ -1,4 +1,4 @@
-package BuildingMoment
+package Study_Kotlin
 
 class Person {
     var name:String ="Marco"
